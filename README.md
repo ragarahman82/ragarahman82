@@ -1,34 +1,67 @@
-# 👋 Hi everyone, I'm M Raga Rahman
+# 👋 Hi, I'm M Raga Rahman
 
-💻 Informatics Student  
-🐍 Currently learning Python  
-🚀 Learning Programming & GitHub
+### 💻 Informatics Student | 🐍 Python Learner
 
-## 🛠️ Skills
+I'm an Informatics student who is currently learning
+programming and building projects to improve my skills.
 
-- Python
-- C++
-- MySQL
-- Git & GitHub
+---
+
+## 🛠️ Tech Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,cpp,html,mysql,git,github,vscode" />
+</p>
+
+---
 
 ## 📚 Currently Learning
 
-- Python
-- Object Oriented Programming
-- Database
-- Web Development
+- 🐍 Python
+- 🧩 Object-Oriented Programming
+- 🗄️ Database
+- 🌐 Web Development
+- 🔧 Git & GitHub
 
-<!--
-**ragarahman82/ragarahman82** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🚀 Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🐍 Python
+Learning Python fundamentals, OOP, and building small projects.
+
+### 🌐 Web Development
+Learning HTML and developing simple web projects.
+
+### 🗄️ Database
+Learning MySQL and database management.
+
+---
+
+## 📊 GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=ragarahman82&show_icons=true&theme=tokyonight" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ragarahman82&layout=compact&theme=tokyonight" height="165">
+</p>
+
+---
+
+## 🌱 My Learning Journey
+
+> "Every expert was once a beginner."
+
+I'm continuously learning, practicing,
+and building something new every day.
+
+---
+
+## 📫 Connect With Me
+
+📧 Email: ragarahman82@gmail.com
+
+📸 Instagram: @moeh.raghmn
+
+---
+
+⭐ Thanks for visiting my profile!
