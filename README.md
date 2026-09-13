@@ -1,4 +1,22 @@
-## Hi there 👋
+# 👋 Hi everyone, I'm M Raga Rahman
+
+💻 Informatics Student  
+🐍 Currently learning Python  
+🚀 Learning Programming & GitHub
+
+## 🛠️ Skills
+
+- Python
+- C++
+- MySQL
+- Git & GitHub
+
+## 📚 Currently Learning
+
+- Python
+- Object Oriented Programming
+- Database
+- Web Development
 
 <!--
 **ragarahman82/ragarahman82** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
