@@ -25,17 +25,22 @@ programming and building projects to improve my skills.
 
 ---
 
-## 🚀 Projects
+## 🚀 Featured Projects
 
-### 🐍 Python
-Learning Python fundamentals, OOP, and building small projects.
+### 🐍 Belajar Python
 
-### 🌐 Web Development
-Learning HTML and developing simple web projects.
+Repository untuk belajar dan latihan dasar-dasar Python.
 
-### 🗄️ Database
-Learning MySQL and database management.
+👉 [View Repository](https://github.com/ragarahman82/Belajar_Phyton)
 
+---
+
+### 💻 OOP Python
+
+Project pembelajaran Python menggunakan konsep
+Object-Oriented Programming (OOP).
+
+👉 [View Repository](https://github.com/ragarahman82/OOP_python_muhammadragarahman_462025611037)
 ---
 
 ## 📊 GitHub Stats
