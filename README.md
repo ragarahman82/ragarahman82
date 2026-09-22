@@ -49,7 +49,6 @@ Object-Oriented Programming (OOP).
   <img src="https://github-readme-stats.vercel.app/api?username=ragarahman82&show_icons=true&theme=tokyonight" height="165">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ragarahman82&layout=compact&theme=tokyonight" height="165">
 </p>
-
 ---
 
 ## 🌱 My Learning Journey
