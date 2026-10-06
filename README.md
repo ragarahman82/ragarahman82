@@ -56,7 +56,7 @@ Object-Oriented Programming (OOP).
 > "Every expert was once a beginner."
 
 I'm continuously learning, practicing,
-and building something new every day.
+and build something new every day.
 
 ---
 
