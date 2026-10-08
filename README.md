@@ -27,7 +27,7 @@ programming and building projects to improve my skills.
 
 ## 🚀 Featured Projects
 
-### 🐍 Belajar Python
+### 🐍 Study Python
 
 Repository untuk belajar dan latihan dasar-dasar Python.
 
