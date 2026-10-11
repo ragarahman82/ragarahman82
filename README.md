@@ -1,19 +1,27 @@
-# 👋 Hi, I'm M Raga Rahman
 
-### 💻 Informatics Student | 🐍 Python Learner
+<h2>Hey there!</h2>
 
-I'm an Informatics student who is currently learning
-programming and building projects to improve my skills.
+<table>
+  <tr>
+    <td width="65%" valign="top">
 
----
+I'm **Muhammad Raga Rahman**, an Informatics student from Indonesia.
 
-## 🛠️ Tech Stack
+I enjoy building things on the web and exploring how technology can solve real-world problems.
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,cpp,html,mysql,git,github,vscode" />
-</p>
+### What I'm up to:
 
----
+- 🔨 Learning web development
+- 🤖 Exploring AI integration
+- 🧩 Practicing programming and problem-solving
+- 🌱 Building my first projects
+
+    </td>
+    <td width="35%" align="center">
+      <img src="YOUR-GIF-URL" width="300" alt="My favorite GIF">
+    </td>
+  </tr>
+</table>
 
 ## 📚 Currently Learning
 
