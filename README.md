@@ -18,7 +18,7 @@ I enjoy building things on the web and exploring how technology can solve real-w
 
     </td>
     <td width="35%" align="center">
-      <img src="YOUR-GIF-URL" width="300" alt="My favorite GIF">
+      <img src="richard.gif" width="300" alt="My favorite GIF">
     </td>
   </tr>
 </table>
