@@ -4,7 +4,7 @@
   <tr>
     <td width="65%" valign="top">
 
-I'm **Muhammad Raga Rahman**, an Informatics student from Indonesia.
+I'm **Muhammad Raga Rahman**, an Informatics student from University Darussalam Gontor, Indonesia.
 
 I enjoy building things on the web and exploring how technology can solve real-world problems.
 
