@@ -22,13 +22,15 @@ I enjoy building things on the web and exploring how technology can solve real-w
   </tr>
 </table>
 
-## 📚 Currently Learning
+## 🟩 Currently Learning
 
-- 🐍 Python
-- 🧩 Object-Oriented Programming
-- 🗄️ Database
-- 🌐 Web Development
-- 🔧 Git & GitHub
+<p>
+  <img src="https://img.shields.io/badge/🐍_Python-07130F?style=flat-square&logo=python&logoColor=00F5A0" />
+  <img src="https://img.shields.io/badge/🧩_Object--Oriented_Programming-07130F?style=flat-square&logoColor=00F5A0" />
+  <img src="https://img.shields.io/badge/🗄️_Database-07130F?style=flat-square&logo=mysql&logoColor=00F5A0" />
+  <img src="https://img.shields.io/badge/🌐_Web_Development-07130F?style=flat-square&logo=html5&logoColor=00F5A0" />
+  <img src="https://img.shields.io/badge/🛠️_Git_&_GitHub-07130F?style=flat-square&logo=github&logoColor=00F5A0" />
+</p>
 
 ---
 
@@ -38,41 +40,49 @@ I enjoy building things on the web and exploring how technology can solve real-w
 
 Repository untuk belajar dan latihan dasar-dasar Python.
 
-👉 [View Repository](https://github.com/ragarahman82/Belajar_Phyton)
+[![View Repository](https://img.shields.io/badge/👉_View_Repository-07130F?style=for-the-badge&logo=github&logoColor=00F5A0)](LINK_REPOSITORY_STUDY_PYTHON)
 
 ---
 
 ### 💻 OOP Python
 
-Project pembelajaran Python menggunakan konsep
-Object-Oriented Programming (OOP).
+Project pembelajaran Python menggunakan konsep Object-Oriented Programming (OOP).
 
-👉 [View Repository](https://github.com/ragarahman82/OOP_python_muhammadragarahman_462025611037)
+[![View Repository](https://img.shields.io/badge/👉_View_Repository-07130F?style=for-the-badge&logo=github&logoColor=00F5A0)](LINK_REPOSITORY_OOP_PYTHON)
+
 ---
 
 ## 📊 GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ragarahman82&show_icons=true&theme=tokyonight" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ragarahman82&layout=compact&theme=tokyonight" height="165">
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=USERNAME_GITHUB_KAMU&show_icons=true&theme=dark&hide_border=true&bg_color=07130F&title_color=00F5A0&icon_color=00F5A0&text_color=E6EDF3" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_GITHUB_KAMU&layout=compact&theme=dark&hide_border=true&bg_color=07130F&title_color=00F5A0&text_color=E6EDF3" />
 </p>
+
 ---
 
 ## 🌱 My Learning Journey
 
 > "Every expert was once a beginner."
 
-I'm continuously learning, practicing,
-and building something new every day.
+I'm continuously learning, practicing, and building something new every day.
 
 ---
 
-## 📫 Connect With Me
+## 📬 Connect With Me
 
-📧 Email: ragarahman82@gmail.com
-
-📸 Instagram: @moeh.raghmn
+<p align="center">
+  <a href="https://github.com/ragarahman82">
+    <img src="https://img.shields.io/badge/GitHub-07130F?style=for-the-badge&logo=github&logoColor=00F5A0" />
+  </a>
+</p>
 
 ---
 
-⭐ Thanks for visiting my profile!
+<p align="center">
+  <i>Keep Learning • Keep Building • Keep Growing 🚀</i>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00F5A0&height=100&section=footer" />
+</p>
