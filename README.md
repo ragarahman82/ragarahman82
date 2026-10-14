@@ -54,12 +54,33 @@ Project pembelajaran Python menggunakan konsep Object-Oriented Programming (OOP)
 
 ## 📊 GitHub Stats
 
+<div align="center">
+
+### 📈 GitHub Activity & Consistency
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ragarahman82&theme=dark&background=0D1117&ring=00FFB2&fire=00FFB2&currStreakLabel=00FFB2&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=AAAAAA&hide_border=true" width="80%" />
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=ragarahman82&show_icons=true&theme=dark&bg_color=0D1117&title_color=00FFB2&icon_color=00FFB2&text_color=FFFFFF&hide_border=true" height="180" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ragarahman82&layout=compact&theme=dark&bg_color=0D1117&title_color=00FFB2&text_color=FFFFFF&hide_border=true" height="180" />
+
+</div>
+
+---
+
+## 🛠️ Toolbox // Stack
+
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=USERNAME_GITHUB_KAMU&show_icons=true&theme=dark&hide_border=true&bg_color=07130F&title_color=00F5A0&icon_color=00F5A0&text_color=E6EDF3" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_GITHUB_KAMU&layout=compact&theme=dark&hide_border=true&bg_color=07130F&title_color=00F5A0&text_color=E6EDF3" />
+  <img src="https://skillicons.dev/icons?i=python,javascript,typescript,react,nextjs,tailwind,fastapi,flask,postgres,redis,docker,aws,pytorch,c,cpp,html,css,git,github,vscode&theme=dark" />
 </p>
 
 ---
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ragarahman82&bg_color=0D1117&color=00FFB2&line=00FFB2&point=FFFFFF&area=true&hide_border=true" width="100%" />
+</p>
 
 ## 🌱 My Learning Journey
 
