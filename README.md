@@ -79,7 +79,7 @@ A place for my web programming practice and coursework as I build my web develop
 ---
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ragarahman82&bg_color=0D1117&color=00FFB2&line=00FFB2&point=FFFFFF&area=true&hide_border=true" width="100%" alt="GitHub activity graph" />
+  <img src="https://brettterpstra.com/contrib/generate?username=ragarahman82&months=12&theme=neon&width=1200&download=0&transparent=1&padding=10&corner_radius=20" width="100%" alt="GitHub contribution activity over the last 12 months" />
 </p>
 
 ## 🌱 My Learning Journey
