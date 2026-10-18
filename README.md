@@ -18,8 +18,6 @@ I'm still learning, experimenting, and documenting my progress through small pro
     </td>
     <td width="35%" align="center">
       <img src="richard.gif" width="220" alt="A favorite GIF">
-      <br/>
-      <img src="assets/profile-photo.jpg" width="200" alt="Profile photo decoration">
     </td>
   </tr>
 </table>
