@@ -81,7 +81,7 @@ A place for my web programming practice and coursework as I build my web develop
 ---
 
 <p align="center">
-  <img src="https://brettterpstra.com/contrib/generate?username=ragarahman82&months=12&theme=neon&width=1200&download=0&transparent=1&padding=10&corner_radius=20" width="100%" alt="GitHub contribution activity over the last 12 months" />
+  <img src="https://raw.githubusercontent.com/ragarahman82/ragarahman82/output/github-contribution-grid-snake.svg" width="100%" alt="GitHub contribution snake animation in neon green" />
 </p>
 
 ## 🌱 My Learning Journey
