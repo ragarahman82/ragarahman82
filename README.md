@@ -96,6 +96,9 @@ I'm still learning, practicing, and building things one step at a time.
   <a href="https://github.com/ragarahman82">
     <img src="https://img.shields.io/badge/GitHub-07130F?style=for-the-badge&logo=github&logoColor=00F5A0" alt="GitHub profile" />
   </a>
+  <a href="https://www.instagram.com/moeh.raghmn/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Instagram-07130F?style=for-the-badge&logo=instagram&logoColor=00F5A0" alt="Instagram profile" />
+  </a>
 </p>
 
 ---
