@@ -16,7 +16,7 @@ I'm still learning, experimenting, and documenting my progress through small pro
 - 🧩 Improving my programming and problem-solving skills
 
     </td>
-    <td width="35%" align="center">
+    <td width="45%" align="center">
       <img src="richard.gif" width="220" alt="A favorite GIF">
     </td>
   </tr>
