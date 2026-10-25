@@ -90,7 +90,7 @@ I'm still learning, practicing, and building things one step at a time.
 
 ---
 
-## 📬 Connect With Me<>
+## 📬 Connect With Me
 
 <p align="center">
   <a href="https://github.com/ragarahman82">
