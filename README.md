@@ -6,7 +6,7 @@
 
 I'm **Muhammad Raga Rahman**, an Informatics student at University of Darussalam Gontor, Indonesia.
 
-I'm still learning, experimenting, and documenting my progress through small projects.
+I'm still learning, experimenting, Testing and documenting my progress through small projects.
 
 ### What I'm up to:
 
