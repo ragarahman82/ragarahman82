@@ -52,21 +52,24 @@ A place for my web programming practice and coursework as I build my web develop
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Statistics
 
-<div align="center">
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ragarahman82&theme=github_dark" width="100%" alt="GitHub profile summary" />
+</p>
 
-### 📈 GitHub Activity & Consistency
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ragarahman82&show_icons=true&include_all_commits=true&theme=github_dark&bg_color=0D1117&title_color=00FFB2&icon_color=00FFB2&text_color=FFFFFF&hide_border=true" height="180" alt="GitHub statistics" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ragarahman82&layout=compact&theme=github_dark&bg_color=0D1117&title_color=00FFB2&text_color=FFFFFF&hide_border=true" height="180" alt="Most-used programming languages" />
+</p>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ragarahman82&theme=dark&background=0D1117&ring=00FFB2&fire=00FFB2&currStreakLabel=00FFB2&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=AAAAAA&hide_border=true" width="80%" alt="GitHub contribution streak" />
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ragarahman82&theme=github-dark-blue&background=0D1117&ring=00FFB2&fire=00FFB2&currStreakLabel=00FFB2&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=AAAAAA&hide_border=true" width="80%" alt="GitHub contribution streak" />
+</p>
 
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api?username=ragarahman82&show_icons=true&theme=dark&bg_color=0D1117&title_color=00FFB2&icon_color=00FFB2&text_color=FFFFFF&hide_border=true" height="180" alt="GitHub statistics" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ragarahman82&layout=compact&theme=dark&bg_color=0D1117&title_color=00FFB2&text_color=FFFFFF&hide_border=true" height="180" alt="Most-used languages on GitHub" />
-
-</div>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ragarahman82&bg_color=0D1117&color=FFFFFF&line=00FFB2&point=00FFB2&area=true&hide_border=true" width="100%" alt="GitHub contribution activity graph" />
+</p>
 
 ---
 
